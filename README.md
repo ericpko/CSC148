@@ -3,16 +3,18 @@
 ### Welcome!
 This repository contains some of the coursework I completed during the 
 CSC148: Intro to Computer Science course at the University of Toronto,
-St. George campus (UTSG). Most of the material I am posing are the
+St. George campus (UTSG). Most of the material I am posting are the
 data structures and abstract data types that we implemented during
 the 2018 winter semester. The professor of this course was Danny
-Heap. I also combined material that was posted from the fall semester
-taught by Professor David Liu and Diane Horton.
+Heap. I also combined material that was posted from the fall 2017 semester
+taught by Professor's David Liu and Diane Horton.
 
 Here is a link to the [CSC148 fall semester website](https://www.teach.cs.toronto.edu/~csc148h/fall/index.html)
 that I used as a guide throughout my course because of the wonderful
-descriptions. You can also find some of the starter code there 
+explanations. You can also find some of the starter code 
 that I have implemented in this repo.
 
 If you find any bugs/errors (which I am sure there are) please correct them,
 or let me know.
+
+Eric
