@@ -8,13 +8,3 @@ data structures and abstract data types that we implemented during
 the 2018 winter semester. The professor of this course was Danny
 Heap. I also combined material that was posted from the fall 2017 semester
 taught by Professor's David Liu and Diane Horton.
-
-Here is a link to the [CSC148 fall semester website](https://www.teach.cs.toronto.edu/~csc148h/fall/index.html)
-that I used as a guide throughout my course because of the wonderful
-explanations. You can also find some of the starter code 
-that I have implemented in this repo.
-
-If you find any bugs/errors (which I am sure there are) please correct them,
-or let me know.
-
-Eric
